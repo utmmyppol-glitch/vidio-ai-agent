@@ -1,0 +1,27 @@
+# Build
+build/
+.gradle/
+!gradle/wrapper/
+out/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Generated content (영상, 썸네일 등)
+generated-content/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Env
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
